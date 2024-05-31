@@ -1,0 +1,710 @@
+{
+  "testInstructions": [
+    {
+      "test_id": 1,
+      "instructions": [
+        {
+          "instruction_id": 1,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Closely examine both feet to look for deformities or complaints of pain such as abnormal pronation/supination, abnormal or missing toes, pain from plantar fasciitis, bursitis, etc."
+        },
+        {
+          "instruction_id": 2,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Stand up with bare feet and tell me if you currently have any pain in your feet, ankles or legs."
+        },
+        {
+          "instruction_id": 3,
+          "instructionkind": "Lightbulb child",
+          "instruction_text": "Do not explicitly ask about pain. If you suspect pain, use a Visual Analogue Scale to objectify the pain in feet, ankles and/or legs."
+        },
+        {
+          "instruction_id": 4,
+          "instructionkind": "Equipment",
+          "instruction_text": ["footprints"]
+        }
+      ]
+    },
+    {
+      "test_id": 2,
+      "instructions": [
+        {
+          "instruction_id": 5,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Look at the child from the side and imagine a vertical line through their center of body mass (COM) to their feet. The COM is the imaginary point inside or outside the body about which the body would rotate if floating in outer space. When standing erect, a vertical line through the COM to the support surface is aligned in front of the vertebrae at the umbilicus and passes about 2 cm in front of the lateral malleolus, centered between the two feet. Abnormal segmental postural alignment such as scoliosis or kyphosis or asymmetries may or may not affect COM alignment."
+        },
+        {
+          "instruction_id": 6,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Stand relaxed, looking straight ahead."
+        },
+        {
+          "instruction_id": 8,
+          "instructionkind": "Equipment",
+          "instruction_text": ["footprints"]
+        }
+      ]
+    },
+    {
+      "test_id": 3,
+      "instructions": [
+        {
+          "instruction_id": 9,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Ask the child to rest their fingertips in your hands for support while they stand on their toes has high as possible and then stand on their heels. Watch for height of heel and toe lift."
+        },
+        {
+          "instruction_id": 10,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Rest your fingers in my hands for support while you stand on your toes. Stay there for my count of three. Now stand on your heels by lifting up your toes. Stay again in that position for my count of three. (The examiner can do this simultaneously)"
+        },
+        {
+          "instruction_id": 11,
+          "instructionkind": "Equipment",
+          "instruction_text": ["footprints"]
+        }
+      ]
+    },
+    {
+      "test_id": 4,
+      "instructions": [
+        {
+          "instruction_id": 12,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Ask the child to rest their fingertips in your hands while they lift their leg to the side off the floor and hold. Count for 10 sec while their foot is off the floor with a straight knee. If they must use moderate force on your hands to keep their trunk upright, score as without keeping trunk vertical."
+        },
+        {
+          "instruction_id": 13,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Lightly rest your fingertips in my hands while you lift your leg out to the side, just off the floor and hold until I tell you to stop. It is important to try to keep your body up as tall as you can and your knee straight while you hold your leg out. (The examiner can do this simultaneously)"
+        },
+        {
+          "instruction_id": 14,
+          "instructionkind": "Equipment",
+          "instruction_text": ["footprints"]
+        }
+      ]
+    },
+    {
+      "test_id": 5,
+      "instructions": [
+        {
+          "instruction_id": 15,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Start with the child standing near a sturdy chair (if required). The child can be considered to be sitting when both buttocks are on the floor. If the task takes more than 2 minutes to complete, with or without a chair, score 0. If the patient requires any physical assistance, score 0."
+        },
+        {
+          "instruction_id": 16,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Are you able to sit on the floor and then stand up, in less than 2 minutes? If you need to use a chair to help you go onto the floor or to stand up, go ahead but your score will be affected. Let me know if you cannot sit on the floor or stand up without my help."
+        },
+        {
+          "instruction_id": 17,
+          "instructionkind": "Equipment",
+          "instruction_text": ["stopwatch"]
+        }
+      ]
+    },
+    {
+      "test_id": 6,
+      "instructions": [
+        {
+          "instruction_id": 18,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Place the footprints at shoulder width. Let the child sit comfortably on a firm, level, armless bench or chair with feet flat on the footprints on the floor. The child should place the eye mask on during the test, but a practice trial without eye mask helps them understand the instruction. Ask the child to cross the arms over the chest and to lean sideways while keeping the body upright. Give tactile stimuli for instructing and providing feedback if needed during the practice trial. Observe the child closely. Ask the child to maintain the position for 3 seconds and then to return to the start position. Watch to see if the child returns to the vertical smoothly without over- or undershooting. Record the worst performance to each side on the score sheet. An extra trial with eyes closed is possible if there is a lot of fear."
+        },
+        {
+          "instruction_id": 19,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Place your feet on the footprints and sit down on the bench. Cross your arms over your chest and sit up as tall as you can. Place this mask/blindfold on your eyes. I’ll be asking you to lean to one side as far as you can. You’ll keep your body up tall and lean sideways as far as you can without losing your balance or using your hands. Stay there until I say you can return. Return to your start position when you’ve leant as far as you can. It’s okay to lift your buttocks and feet. Lean now. (REPEAT other side)"
+        },
+        {
+          "instruction_id": 20,
+          "instructionkind": "Lightbulb child",
+          "instruction_text": "Practical tips: Start with one practice trial without the eye mask/blindfold on. Afterwards you will do it for real with the eye mask or blindfold on. If you notice difficulties, you can help the child to return to the start position or instruct the child to use their hands to return."
+        },
+        {
+          "instruction_id": 21,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "Eye mask/blindfold",
+            "A bench without back- or armrests",
+            "Footprints"
+          ]
+        }
+      ]
+    },
+    {
+      "test_id": 7,
+      "instructions": [
+        {
+          "instruction_id": 18,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Place the footprints at shoulder width. Let the child sit comfortably on a firm, level, armless bench or chair with feet flat on the footprints on the floor. The child should place the eye mask on during the test, but a practice trial without eye mask helps them understand the instruction. Ask the child to cross the arms over the chest and to lean sideways while keeping the body upright. Give tactile stimuli for instructing and providing feedback if needed during the practice trial. Observe the child closely. Ask the child to maintain the position for 3 seconds and then to return to the start position. Watch to see if the child returns to the vertical smoothly without over- or undershooting. Record the worst performance to each side on the score sheet. An extra trial with eyes closed is possible if there is a lot of fear."
+        },
+        {
+          "instruction_id": 19,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Place your feet on the footprints and sit down on the bench. Cross your arms over your chest and sit up as tall as you can. Place this mask/blindfold on your eyes. I’ll be asking you to lean to one side as far as you can. You’ll keep your body up tall and lean sideways as far as you can without losing your balance or using your hands. Stay there until I say you can return. Return to your start position when you’ve leant as far as you can. It’s okay to lift your buttocks and feet. Lean now. (REPEAT other side)"
+        },
+        {
+          "instruction_id": 20,
+          "instructionkind": "Lightbulb child",
+          "instruction_text": "Practical tips: Start with one practice trial without the eye mask/blindfold on. Afterwards you will do it for real with the eye mask or blindfold on. If you notice difficulties, you can help the child to return to the start position or instruct the child to use their hands to return."
+        },
+        {
+          "instruction_id": 21,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "Eye mask/blindfold",
+            "A bench without back- or armrests",
+            "Footprints"
+          ]
+        }
+      ]
+    },
+    {
+      "test_id": 8,
+      "instructions": [
+        {
+          "instruction_id": 22,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Install the measuring tape to the wall and place the footprints on the floor at shoulder width. Ask the child to stand right next to the wall with arms extended in front of him/her (90° anteflexion). Make a mark on the paper in the start position. Ask the child to reach forward as far as possible and make a second mark at the end position. The child may not lift heels, rotate trunk, protract scapula excessively or lean against the wall. The child must keep their arms parallel to the floor and may use less involved arm. The horizontal distance between these two marks is then measured after two trials. Record best reach and the corresponding quality of movement observations on score sheet."
+        },
+        {
+          "instruction_id": 23,
+          "instructionkind": "Lightbulb examiner",
+          "instruction_text": "Position of hands and fingers: in young children (age 5-7) extended; in older children (age 8-10): holding a pen in their closed hand closest to the wall."
+        },
+        {
+          "instruction_id": 24,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Place your feet on the footprints and stand normally right next to the wall. Please lift both arms straight in front of you. (Demonstrate hand and finger position). I will make a mark on the paper then you will reach forward as far as you can. Do not lift your heels. Do not touch the paper or the wall. Once you have reached, as far forward as you can, I will make another mark on the paper. Then return to the start position on my signal. I will ask you to do this twice. Reach as far as you can."
+        },
+        {
+          "instruction_id": 25,
+          "instructionkind": "Lightbulb child",
+          "instruction_text": "Practical tips for young children: 'try to reach the furthest animal' OR 'reach to tickle my hand'."
+        },
+        {
+          "instruction_id": 25,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "Measuring tape for age 5-14",
+            "Markers",
+            "Footprints (optional)"
+          ]
+        }
+      ]
+    },
+    {
+      "test_id": 9,
+      "instructions": [
+        {
+          "instruction_id": 26,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Install the measuring tape to the wall and place the footprints on the floor at shoulder width. The child stands in front of a wall without touching it, with the arms abducted (90°). Make sure the subject starts in a neutral position. Make a mark on the paper in the start position. Ask the child to reach sideways as far as possible and make a second mark at the end position. The child may not lift the heels, rotate trunk or lean against the wall. The child must keep the arm parallel to the floor. The horizontal distance between the two marks is then measured after two trials. Record best reach and the corresponding quality of movement observations on score sheet."
+        },
+        {
+          "instruction_id": 27,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Stand normally in front of the wall without touching it, with your feet shoulder width apart. Arms at your sides. Please lift your right (or left) arm next to your body. (Demonstrate hand and finger position). Keep your arm there. I will make a mark on the paper then you will reach sideways as far as you can. Your arm should not touch the wall behind you. Do not lift your feet off the floor. Once you have reached as far sideways as you can, I will make another mark on the paper. Then return to a normal standing position on my signal. I will ask you to do this twice. Reach out as far as you can. (REPEAT other side)."
+        },
+        {
+          "instruction_id": 28,
+          "instructionkind": "Lightbulb child",
+          "instruction_text": "Practical tips for young children: “try to reach the furthest animal” OR “reach to tickle my hand”. \nPosition of hands and fingers: in young children (age 7) extended; in older children (age 8-10): holding a pen in their closed hand closest to the wall."
+        },
+        {
+          "instruction_id": 29,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "Measuring tape for age 5-14",
+            "Markers",
+            "Footprints (optional)"
+          ]
+        }
+      ]
+    },
+    {
+      "test_id": 10,
+      "instructions": [
+        {
+          "instruction_id": 30,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Note the initiation of the movement, and the use of hands on the arms of the chair or their thighs or whether they thrust their arms forward."
+        },
+        {
+          "instruction_id": 31,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Cross your arms across your chest and stand up from the chair. Try not to use your hands unless you must. Don’t let your legs lean against the back of the chair when you stand. Please stand up now."
+        },
+        {
+          "instruction_id": 33,
+          "instructionkind": "Equipment",
+          "instruction_text": ["Chair with adjustable seat height"]
+        }
+      ]
+    },
+    {
+      "test_id": 11,
+      "instructions": [
+        {
+          "instruction_id": 34,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Place the footprints at the child’s shoulder width on the floor. Ask the child to stand with feet at shoulder width and the hands on the hips. Make sure subjects look at a target 1.5 m (4.95 feet) away. If you suspect that the subject is using less than their full height, ask them to rise up while holding the examiners’ hands or compare with what you saw in domain I. Allow the patient two trials. Record the best score."
+        },
+        {
+          "instruction_id": 35,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Place your feet on the footprints. Place your hands on your hips. Try to rise as high as you can onto your toes and as stable as possible. I’ll record the time you can stay onto your toes. Try to hold this pose for ten seconds. Look straight ahead at the target on the wall. Rise now."
+        },
+        {
+          "instruction_id": 36,
+          "instructionkind": "Equipment",
+          "instruction_text": ["Footprints", "Stopwatch"]
+        }
+      ]
+    },
+    {
+      "test_id": 12,
+      "instructions": [
+        {
+          "instruction_id": 37,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Place the footprints shoulder width apart. Have the child stand and lift the weight with both hands to shoulder height. Subjects should perform this as fast as they can. Allow the child the child a practice trial."
+        },
+        {
+          "instruction_id": 38,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Stand on the footprints. Lift this weight with both hands from a position in front of you to shoulder level. Please do this as fast as you can. Keep your elbows straight when you lift and hold. Hold for my count of 3. Begin now."
+        },
+        {
+          "instruction_id": 39,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "Weight of 500g (age 5-7) or 1kg (age 8-14)",
+            "Footprints"
+          ]
+        }
+      ]
+    },
+    {
+      "test_id": 13,
+      "instructions": [
+        {
+          "instruction_id": 40,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Let the child stand on the footprints. Ask the child to place their hands on their hips and flex the knee 90° while keeping the hip neutral. Allow the child to look at the target (smiley) on the wall (1.5m or 4.95 feet). Record the sec they can hold posture, up to a maximum of 30 sec. Allow the child one practice trial (max 5 seconds) and two attempts. Repeat the other side."
+        },
+        {
+          "instruction_id": 41,
+          "instructionkind": "Lightbulb examiner",
+          "instruction_text": "A stable posture is characterized by an ankle strategy in the supporting leg, the hands remaining on the hips and the free leg not touching the supporting leg. An unstable posture is characterized by a hip strategy, a hovering foot, trunk movements, the arms that are used for compensation or the free leg that touches the supporting leg despite verbal or tactile corrections."
+        },
+        {
+          "instruction_id": 42,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Stand on the footprints. Look straight ahead at the target on the wall. Keep your hands on your hips. Bend one leg behind you to 90° (demonstrate). Don’t touch your raised leg on your other leg or take your hands off your hips. Stay standing on one leg as long and stable as you can. Look straight ahead. Lift now. (REPEAT other side)"
+        },
+        {
+          "instruction_id": 43,
+          "instructionkind": "Equipment",
+          "instruction_text": ["Stopwatch", "Footprints"]
+        }
+      ]
+    },
+    {
+      "test_id": 14,
+      "instructions": [
+        {
+          "instruction_id": 44,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Place the footprints shoulder width apart. Let the child stand on the footprints. Ask the child to place their hands on their hips and look at the target (1.5m or 4.95 feet) while touching the stairs alternately. Count the number of successful touches and the total time to complete the 8 touches. It is permissible for subjects to look at their feet. If they take their hands off their hips, cue them to put them back on. Allow one practice trial (2 taps on each side)."
+        },
+        {
+          "instruction_id": 45,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Stand on the footprints. Place your hands on your hips and look at the target on the wall. Touch the ball of each foot alternately on the top of the stair with each foot alternately, but you must keep your hands on your hips. Continue until each foot touches the stair four times (8 total taps). Do this as fast and as good as you can. I’ll be timing how quickly you can do this. Begin now."
+        },
+        {
+          "instruction_id": 46,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "Standard stair height of 6 inches or 15 cm",
+            "Footprints",
+            "Stopwatch"
+          ]
+        }
+      ]
+    },
+    {
+      "test_id": 15,
+      "instructions": [
+        {
+          "instruction_id": 47,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Forward \nPlace the footprints shoulder width apart. Stand in front of the child, place one hand on each shoulder and lightly push the child backward (isometrically hold against the child’s forward push) until their anterior ankle muscles contract, (and toes just start to extend) then suddenly release. Do not allow any preleaning by the child and make sure that the child does not push too hard. If you notice the child does not understand the instruction, consider this a practice trial and allow an additional trial. \n\nBackward \nPlace the footprints shoulder width apart. Stand behind the child, place one hand on each scapula and lightly push the child forward (isometrically hold against the child’s backward push) until their heels are about to be lifted, not allowing trunk motion. Then suddenly release. Do not allow any preleaning by the child and make sure that the child does not push too hard. If you notice the child does not understand the instruction, consider this a practice trial and allow an additional trial."
+        },
+        {
+          "instruction_id": 48,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Forward \nFor the next test, I am going to push against you to test your balance reaction. Stand on the footprints. Stand in your normal posture with your arms at your sides. Do not allow my hands to push you backward. When I let go, keep your balance without taking a step. \n\nBackward \nStand on the footprints. Stand in your normal with your arms at your sides. Do not allow my hands to push you forward. When I let go, keep your balance without taking a step."
+        },
+        {
+          "instruction_id": 49,
+          "instructionkind": "Equipment",
+          "instruction_text": ["Footprints"]
+        }
+      ]
+    },
+    {
+      "test_id": 16,
+      "instructions": [
+        {
+          "instruction_id": 50,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Forward \nPlace the footprints shoulder width apart. Stand in front to the side of child with one hand on each shoulder and ask them to lean forward. (Make sure there is room for them to step forward). Require them to lean until their shoulders and hips are in front of their toes. Suddenly release your support when the subject is in place. The test must elicit a step. BE PREPARED TO CATCH THE CHILD. If the stimulus was inadequate, allow an additional trial. \n\nBackward \nPlace the footprints shoulder width apart. Stand behind child with one hand on each scapula and ask them to lean backward. Make sure there is room for them to step backward. Require them to lean until their shoulders and hips are behind their heels. Suddenly release your support when the subject is in place. The test must elicit a step. BE PREPARED TO CATCH THE CHILD. If the stimulus was inadequate, allow an additional trial."
+        },
+        {
+          "instruction_id": 51,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Forward \nStand on the footprints. Stand with your arms at your sides. Lean forward against my hands beyond your forward limits. When I let go, do whatever is necessary, including taking a step, to avoid a fall. Do not be afraid to fall, I am close to you. \n\nBackward \nStand on the footprints. Stand with your arms down at your sides. Lean backward against my hands beyond your backward limits. When I let go, do whatever is necessary, including taking a step, to avoid a fall. Don’t be afraid to fall, I’m close to you."
+        },
+        {
+          "instruction_id": 52,
+          "instructionkind": "Equipment",
+          "instruction_text": ["Footprints"]
+        }
+      ]
+    },
+    {
+      "test_id": 17,
+      "instructions": [
+        {
+          "instruction_id": 53,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Instructions for examiner: place the footprints next to each other. Stand behind child with one hand on either the right (or left) side of the pelvis and ask them to lean their whole vertical body into your hand. Make sure there is room for them to step sideways. Require them to lean until the midline of the pelvis is over the right (or left) foot. Suddenly release your support when the subject is in place. The test must elicit a step. BE PREPARED TO CATCH THE CHILD. Repeat other side."
+        },
+        {
+          "instruction_id": 54,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Stand on the footprints. Stand with your arms down at your sides. Lean into my hand beyond your sideways limit. When I let go, step if you need to, to avoid a fall. Don’t be afraid to fall, I’m close to you."
+        },
+        {
+          "instruction_id": 55,
+          "instructionkind": "Equipment",
+          "instruction_text": ["Footprints"]
+        }
+      ]
+    },
+    {
+      "test_id": 18,
+      "instructions": [
+        {
+          "instruction_id": 56,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Start with the FEC condition. I the child does not receive a maximal score, administer the EC condition, then the FEO condition and if necessary the EO condition. Place footprints at hip width. Ask the child to stand with their hands on their hips. Assist the child in stepping onto the foam. Have the child step off the foam between trials. Record the time the child was able to stand in each condition to a maximum of 30 seconds. Repeat condition if not able to stand for 30 s and record both trials. Record the best of two trials per task."
+        },
+        {
+          "instruction_id": 57,
+          "instructionkind": "Child instructions",
+          "instruction_text": "For the next 4 assessments, you will either be standing on this foam or on the normal ground, with your eyes open or with this eye mask in place. I will assist you in stepping onto the foam. 1. Stand on the footprints on the foam and place your hands on your hips. I will put on the eye mask. Stay as stable as possible until I say stop. Don’t be afraid to fall, I’m close to you."
+        },
+        {
+          "instruction_id": 58,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "60 cm x 60 cm (2 x 2 ft), 10 cm thick (4 inch) medium density Tempur foam",
+            "Stopwatch",
+            "Eyemask/blindfold",
+            "Footprints"
+          ]
+        }
+      ]
+    },
+    {
+      "test_id": 19,
+      "instructions": [
+        {
+          "instruction_id": 59,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Start with the FEC condition. I the child does not receive a maximal score, administer the EC condition, then the FEO condition and if necessary the EO condition. Place footprints at hip width. Ask the child to stand with their hands on their hips. Assist the child in stepping onto the foam. Have the child step off the foam between trials. Record the time the child was able to stand in each condition to a maximum of 30 seconds. Repeat condition if not able to stand for 30 s and record both trials. Record the best of two trials per task."
+        },
+        {
+          "instruction_id": 60,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Stand on the footprints and place your hands on your hips. I will put on the eye mask. Stay as stable as possible until I say stop. Do not be afraid to fall, I am close to you."
+        },
+        {
+          "instruction_id": 61,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "60 cm x 60 cm (2 x 2 ft), 10 cm thick (4 inch) medium density Tempur foam",
+            "Stopwatch",
+            "Eyemask/blindfold",
+            "Footprints"
+          ]
+        }
+      ]
+    },
+    {
+      "test_id": 20,
+      "instructions": [
+        {
+          "instruction_id": 62,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Start with the FEC condition. I the child does not receive a maximal score, administer the EC condition, then the FEO condition and if necessary the EO condition. Place footprints at hip width. Ask the child to stand with their hands on their hips. Assist the child in stepping onto the foam. Have the child step off the foam between trials. Record the time the child was able to stand in each condition to a maximum of 30 seconds. Repeat condition if not able to stand for 30 s and record both trials. Record the best of two trials per task."
+        },
+        {
+          "instruction_id": 63,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Stand on the footprints on the foam and place your hands on your hips. Stay as stable as possible until I say stop. Do not be afraid to fall, I am close to you."
+        },
+        {
+          "instruction_id": 64,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "60 cm x 60 cm (2 x 2 ft), 10 cm thick (4 inch) medium density Tempur foam",
+            "Stopwatch",
+            "Eyemask/blindfold",
+            "Footprints"
+          ]
+        }
+      ]
+    },
+    {
+      "test_id": 21,
+      "instructions": [
+        {
+          "instruction_id": 65,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Start with the FEC condition. I the child does not receive a maximal score, administer the EC condition, then the FEO condition and if necessary the EO condition. Place footprints at hip width. Ask the child to stand with their hands on their hips. Assist the child in stepping onto the foam. Have the child step off the foam between trials. Record the time the child was able to stand in each condition to a maximum of 30 seconds. Repeat condition if not able to stand for 30 s and record both trials. Record the best of two trials per task."
+        },
+        {
+          "instruction_id": 66,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Stand on the footprints and place your hands on your hips. Look straight ahead. Stay as stable as possible until I say stop."
+        },
+        {
+          "instruction_id": 67,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "60 cm x 60 cm (2 x 2 ft), 10 cm thick (4 inch) medium density Tempur foam",
+            "Stopwatch",
+            "Eyemask/blindfold",
+            "Footprints"
+          ]
+        }
+      ]
+    },
+    {
+      "test_id": 22,
+      "instructions": [
+        {
+          "instruction_id": 68,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Place footprints at shoulder width. Aid the child onto the ramp. Once the child closes their eyes, begin timing. Repeat condition if not able to stand for 30 s and average both trials. Note if sway is greater than when standing on level surface with eyes closed (Item 2, Domain V) or if poor alignment to vertical. Assist includes use of a walking aid or light touch any time during the trial."
+        },
+        {
+          "instruction_id": 69,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Please stand on the incline ramp with your toes toward the top. Stand on the footprints. Place your hands on your hips. I will start timing when I put on the eye mask. Don’t be afraid to fall, I’m close to you."
+        },
+        {
+          "instruction_id": 70,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "An inclined ramp (10°, 60x60cm or 2x2 feet)",
+            "Eyemask/blindfold",
+            "Footprints"
+          ]
+        }
+      ]
+    },
+    {
+      "test_id": 23,
+      "instructions": [
+        {
+          "instruction_id": 71,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Place two markers 20 feet (6 meters) apart and visible to the child on a level walkway. Use a stopwatch to time gait duration. Have the child start with their toes on the mark. Start timing with the stopwatch when the first foot leaves the ground and stop timing when both feet stop beyond the next mark. Allow a second trial if the first trial is not representative."
+        },
+        {
+          "instruction_id": 72,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Walk at your normal speed from here past the next mark and stop (or: to the duplo brick on the chair at the end of the walkway)."
+        },
+        {
+          "instruction_id": 73,
+          "instructionkind": "Lightbulb child",
+          "instruction_text": "Place a chair behind the second line with a Duplo brick for motivation. Asking them to walk towards the brick, induces a more natural walking pattern compared to referring to “normal” speed."
+        },
+        {
+          "instruction_id": 74,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "Tape",
+            "Duplo block (optional)",
+            "6 meter walkway"
+          ]
+        }
+      ]
+    },
+    {
+      "test_id": 24,
+      "instructions": [
+        {
+          "instruction_id": 75,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Allow the child to take 2-3 steps at their normal speed, and then say “fast”, after 2-3 fast steps, say “slow”. Allow 2-3 slow steps before they stop walking."
+        },
+        {
+          "instruction_id": 76,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Walk to the next mark. Begin walking at your normal speed, when I tell you “fast” walk as fast as you can. When I say “slow”, walk very slowly."
+        },
+        {
+          "instruction_id": 77,
+          "instructionkind": "Equipment",
+          "instruction_text": ["6 meter walkway"]
+        }
+      ]
+    },
+    {
+      "test_id": 25,
+      "instructions": [
+        {
+          "instruction_id": 78,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Demonstrate a pivot turn. Once the child is walking at normal speed, say “turn and stop.” Count the steps from turn until the child is stable."
+        },
+        {
+          "instruction_id": 79,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Begin walking at your normal speed. When I tell you to “turn and stop”, turn as quickly as you can to face the opposite direction and stop. After the turn, your feet should be close together."
+        }
+      ]
+    },
+    {
+      "test_id": 26,
+      "instructions": [
+        {
+          "instruction_id": 80,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Start by asking the child to turn the head alternately left and right on your cue. Commence in a stationary position to check whether the child can differentiate left from right. Ask the child to turn their head and hold it so they are looking over their shoulder until you tell them to look over the opposite shoulder every 2-3 steps. Emphasize that the child needs to continue walking after (s)he turned his/her head. If the child has cervical restrictions allow combined head and trunk movements (en bloc)."
+        },
+        {
+          "instruction_id": 81,
+          "instructionkind": "Child instructions",
+          "instruction_text": "First look to left, now look to the right. Begin walking at your normal speed, when I say “right”, turn your head and look to the right. When I say “left” turn your head and look to the left. Try to keep yourself walking in a straight line. You can only walk straight ahead again when I say so."
+        },
+        {
+          "instruction_id": 82,
+          "instructionkind": "Lightbulb child",
+          "instruction_text": "Practical tips: If the child does not understand the command left and right, use colored bracelets with different colors for left and right. Use the colors instead of the cues left and right. Or use specific spatial features in the room (e.g. side with the wall, window, door, etc.)."
+        },
+        {
+          "instruction_id": 82,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "6 meter walkway",
+            "Colored bracelets (optional)"
+          ]
+        }
+      ]
+    },
+    {
+      "test_id": 27,
+      "instructions": [
+        {
+          "instruction_id": 83,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Place an object (mid shin height) 10 ft. (3 m) away from where the patient will begin walking. Use a stopwatch to time gait duration and register the time on the score sheet. Calculate average velocity by dividing the number of seconds into 20 feet (6 m)."
+        },
+        {
+          "instruction_id": 84,
+          "instructionkind": "Child instructions",
+          "instruction_text": "Begin walking at your normal speed. When you come to the object, step over it, not around it and keep walking."
+        },
+        {
+          "instruction_id": 85,
+          "instructionkind": "Equipment",
+          "instruction_text": ["Shoe box"]
+        }
+      ]
+    },
+    {
+      "test_id": 28,
+      "instructions": [
+        {
+          "instruction_id": 86,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "The child is seated with the hips and knees flexed 90° and the feet flat on the floor. At the end of the walkway (3.38 m) a red Duplo brick is placed on an adult-sized chair facing the child. Ask the child to get up from the chair on the cue “go”, walk towards the red Duplo brick, grasp and transport it back and sit down again. The child needs to do this three times as fast as possible. Record the best result."
+        },
+        {
+          "instruction_id": 87,
+          "instructionkind": "Child instructions",
+          "instruction_text": "When I say “go”, get up from the chair, walk to the other side, grasp the red Duplo brick and transport it back, and sit down again. Do this as fast as you can without running. Do this three times. 1, 2, 3, Go!"
+        },
+        {
+          "instruction_id": 88,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "Chair with adjustable sitting height",
+            "Adult-size chair",
+            "Red Duplo brick"
+          ]
+        }
+      ]
+    },
+    {
+      "test_id": 29,
+      "instructions": [
+        {
+          "instruction_id": 89,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "The child is seated with the hips and knees flexed 90° and the feet flat on the floor. At the end of the walkway (3.38 m) a red Duplo brick is placed on an adult-sized chair facing the child. Ask the child to get up from the chair on the cue “go”, walk towards the red Duplo brick, grasp and transport it back and sit down again. The child needs to do this three times as fast as possible. Record the best result."
+        },
+        {
+          "instruction_id": 90,
+          "instructionkind": "Child instructions",
+          "instruction_text": "When I say “go”, get up from the chair, walk to the other side, grasp the red Duplo brick and transport it back, and sit down again. Do this as fast as you can without running. Do this three times. 1, 2, 3, Go!"
+        },
+        {
+          "instruction_id": 91,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "Chair with adjustable sitting height",
+            "Adult-size chair",
+            "Red Duplo brick"
+          ]
+        }
+      ]
+    },
+    {
+      "test_id": 30,
+      "instructions": [
+        {
+          "instruction_id": 89,
+          "instructionkind": "Instructions for examiner",
+          "instruction_text": "Start with the cognitive task as a single task. Ask the child to enumerate as many animals as possible that live in the zoo, the sea, the air or the farm in 10 seconds or count back by 2's/listing random numbers. Next, ask them to do this simultaneously with the TUG. Time the child from when you say “go” until they return to sitting. Stop timing when the child’s buttocks touch the chair bottom."
+        },
+        {
+          "instruction_id": 90,
+          "instructionkind": "Child instructions",
+          "instruction_text": "When I say go, stand up, grasp and transport the Duplo brick back to the chair, and sit back down again. Walk as fast as possible, don’t run. While you do that, you tell me as many animals as you know that live in the zoo or count back by 2's/list random numbers. (or other variant, but same as single cognitive task). Do both tasks simultaneously. 1, 2, 3, GO."
+        },
+        {
+          "instruction_id": 91,
+          "instructionkind": "Equipment",
+          "instruction_text": [
+            "Chair with adjustable sitting height",
+            "Adult-size chair",
+            "Red Duplo brick"
+          ]
+        }
+      ]
+    }
+  ]
+}
